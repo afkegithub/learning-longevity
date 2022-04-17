@@ -8,52 +8,74 @@ Resources that cover a wide range of topics or teach about the overall field of 
 
 | [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq) <br> An article by Laura Deming that provides an overview of the field of longevity to beginners. It covers major areas like caloric restriction, insulin/IGF, parabiosis, and more.  | |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------  | :--------: |
-| **Course**                                                                                                                                             | **Status** |
+| **Article**                                                                                                                                            | **Status** |
 |  Read [Laura Deming's Longevity FAQ](https://www.ldeming.com/longevityfaq)                                                                             |     ❌     |
 
 <br>
 
 ## Biology
 
+*TBD*
+
 <br>
 
 ## Chemistry
+
+*TBD*
 
 <br>
 
 ## Caloric Restriction
 
+*TBD*
+
 <br>
 
 ## Insulin/IGF
+
+*TBD*
 
 <br>
 
 ## Parabiosis
 
+*TBD*
+
 <br>
 
 ## Senescence
+
+*TBD*
 
 <br>
 
 ## Autophagy
 
+*TBD*
+
 <br>
 
 ## Hypothalamus
+
+*TBD*
 
 <br>
 
 ## Reproductive System
 
+*TBD*
+
 <br>
 
 ## Mitochondria
 
+*TBD*
+
 <br>
 
 ## Sirtuins
+
+*TBD*
 
 <br>
 
