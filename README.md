@@ -1,12 +1,12 @@
 # Learning Longevity
-A repository for learning about longevity.
+A repository for learning about extending the healthspan of living beings.
 
 ![banner](https://assets.answersingenesis.org/img/cms/content/contentnode/header_image/characters/jam-jellyfish.png)
 
 ## General
 Resources that cover a wide range of topics or teach about the overall field of longevity.
 
-| [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq) <br> An article by Laura Deming that provides an overview of the field of longevity to beginners. It explains major areas like caloric restriction, insulin/IGF, parabiosis, and more.  | |
+| [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq) <br> An article by Laura Deming that provides an overview of the field of longevity. It explains major areas like caloric restriction, insulin/IGF, parabiosis, senescence, and more.  | |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------  | :--------: |
 | **Article**                                                                                                                                            | **Status** |
 |  Read [Laura Deming's Longevity FAQ](https://www.ldeming.com/longevityfaq)                                                                             |     ❌     |
@@ -24,72 +24,6 @@ Resources that cover a wide range of topics or teach about the overall field of 
 |  `1:10:16` [The Science of Looking Younger, Longer](https://www.youtube.com/watch?v=-6Laa2LiS2E)                                                       |     ❌     |
 |  `1:02:07` [The Science of Keeping the Brain Healthy](https://www.youtube.com/watch?v=XXtioWl9BWg)                                                     |     ❌     |
 |  `1:09:36` [Biotracking, Age Reversal & Other Advanced Health Technologies](https://www.youtube.com/watch?v=mrnQkA8I6DQ)                               |     ❌     |
-
-<br>
-
-## Biology
-
-*TBD*
-
-<br>
-
-## Chemistry
-
-*TBD*
-
-<br>
-
-## Caloric Restriction
-
-*TBD*
-
-<br>
-
-## Insulin/IGF
-
-*TBD*
-
-<br>
-
-## Parabiosis
-
-*TBD*
-
-<br>
-
-## Senescence
-
-*TBD*
-
-<br>
-
-## Autophagy
-
-*TBD*
-
-<br>
-
-## Hypothalamus
-
-*TBD*
-
-<br>
-
-## Reproductive System
-
-*TBD*
-
-<br>
-
-## Mitochondria
-
-*TBD*
-
-<br>
-
-## Sirtuins
-
-*TBD*
 
 <br>
 
