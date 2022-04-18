@@ -4,7 +4,7 @@ A repository for learning about extending the healthspan of living beings.
 ![banner](https://assets.answersingenesis.org/img/cms/content/contentnode/header_image/characters/jam-jellyfish.png)
 
 ## General
-Resources that cover a wide range of topics or teach about the overall field of longevity.
+Resources that cover a range of longevity-related topics or teach about the field as a whole.
 
 | [Longevity FAQ: A beginner's guide to longevity research](https://www.ldeming.com/longevityfaq) <br> An article by Laura Deming that provides an overview of the field of longevity. It explains major areas like caloric restriction, insulin/IGF, parabiosis, senescence, and more.  | |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------  | :--------: |
