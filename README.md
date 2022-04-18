@@ -15,7 +15,7 @@ Resources that cover a range of longevity-related topics or teach about the fiel
 
 | [Lifespan with Dr. David Sinclair](https://www.youtube.com/playlist?list=PLD5B7ZO3P953hrxL9yEvVeu5X43d6SB3h) <br> Topics discussed include: why aging is a disease, the impact of dietary choices, fasting and exercise on aging, how various supplements and prescription drugs can protect against aging, and more.  | |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------  | :--------: |
-| **Article**                                                                                                                                            | **Status** |
+| **Episode**                                                                                                                                            | **Status** |
 |  `1:02:36` [The Science Behind Why We Age](https://www.youtube.com/watch?v=X1kLizzdb2c)                                                                |     ❌     |
 |  `1:08:10` [What to Eat & When to Eat for Longevity](https://www.youtube.com/watch?v=wD8reCw3Kls)                                                      |     ❌     |
 |  `1:11:37` [Exercise, Heat, Cold & Other Stressors for Longevity](https://www.youtube.com/watch?v=4Yc5EXX9YWg)                                         |     ❌     |
