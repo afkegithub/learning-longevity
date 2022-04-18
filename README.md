@@ -29,7 +29,7 @@ Resources that cover a range of longevity-related topics or teach about the fiel
 
 ## Biology
 
-| [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3) <br> In this course, you will discover the fundamental principles of modern biology and how biologists study genes, proteins, and human disease. | |
+| [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3) <br> Explore the secret of life through the basics of biochemistry, genetics, molecular biology, recombinant DNA, genomics and rational medicine. | |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------  | :--------: |
 | **Unit**                                                                                                                                               | **Status** |
 |  Before You Start                                                                                                                                      |     ❌     |
