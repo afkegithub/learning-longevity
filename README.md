@@ -27,6 +27,33 @@ Resources that cover a range of longevity-related topics or teach about the fiel
 
 <br>
 
+## Biology
+
+| [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3) <br> In this course, you will discover the fundamental principles of modern biology and how biologists study genes, proteins, and human disease. | |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------  | :--------: |
+| **Unit**                                                                                                                                               | **Status** |
+|  Before You Start                                                                                                                                      |     ❌     |
+|  Resource Boxes                                                                                                                                        |     ❌     |
+|  Introduction and the Biochemistry of Life                                                                                                             |     ❌     |
+|  Biochemistry - Proteins, Enzymes, and Glycolysis                                                                                                      |     ❌     |
+|  Genetics - The Work of Mendel and T.H. Morgan                                                                                                         |     ❌     |
+|  Human and Biochemical Genetics                                                                                                                        |     ❌     |
+|  Biochemistry and Genetics                                                                                                                             |     ❌     |
+|  Molecular Biology - DNA and Replication                                                                                                               |     ❌     |
+|  Molecular Biology - Transcription, Translation, and Variations                                                                                        |     ❌     |
+|  Recombinant DNA - Cloning and Analyzing a Gene                                                                                                        |     ❌     |
+|  Practice Exam: Molecular Biology and Recombinant DNA                                                                                                  |     ❌     |
+|  Genomics - Human Genome                                                                                                                               |     ❌     |
+|  Genomics - Observing and Perturbing the Genome to Probe Function                                                                                      |     ❌     |
+|  Disease and Science and Society                                                                                                                       |     ❌     |
+|  Practice Final Exam                                                                                                                                   |     ❌     |
+|  Farewell from Professor Lander                                                                                                                        |     ❌     |
+|  Extra Practice Problems                                                                                                                               |     ❌     |
+|  7.00x Introduction to Biology Competency Exam Sections                                                                                                |     ❌     |
+|  Exit Survey                                                                                                                                           |     ❌     |
+
+<br>
+
 ## Miscellaneous
 For topics that are not directly related to the field of longevity, but are still beneficial to know.
 
